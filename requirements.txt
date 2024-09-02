@@ -3,6 +3,7 @@ dash==2.7.0
 dash_ag_grid==2.0.0a2
 dash_bootstrap_components==1.6.0
 pandas==1.4.3
+numpy==1.21.6
 # pandas==2.2.2
 gunicorn
 dash-tools
