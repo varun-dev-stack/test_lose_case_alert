@@ -1,0 +1,1003 @@
+"BD Feedback: 
+Reported to Merchant (Y/N)","BD Feedback: 
+Price Match (Y/N)","BD Feedback
+(if price match is not allowed)",BD feedback if any,Feedback Date,Report Date,responsible_bd,BU_Level_1,segment,AID,activity_name,PKG ID,package_name,SKU ID,sku_name,selling_currency,klook_cost,retail price,klook_price,klook price after auto priced,BML ,competitor_price,competitor_code,competitor_package,Pariticipation Date,URL,Country,Price diff.,Price variance%,Take Rate,TR after price matched
+FALSE,FALSE,,,,2024-05-27,beiyi.lim@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,220957,[Open Dated] Admission Ticket (Non-residents),828951291996,Adult,HKD,235,282,282,283,LOSE,267,kkday,Bird Paradise Admission Ticket,2024-05-27,https://www.kkday.com/en/product/2967,Singapore,-15,-5.32%,16.67%,11.99%
+FALSE,FALSE,,,,2024-05-27,beiyi.lim@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,220960,[Open Dated] Admission Ticket (Non-residents) ,828951291999,Adult,KRW,36000,43300,43300,43100,LOSE,40700,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/129197,Singapore,-2600,-6.00%,16.86%,11.55%
+FALSE,FALSE,,,,2024-05-27,beiyi.lim@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,198,[Open Dated] Admission Ticket with Tram Ride (Local Residents),8001410101,Adult,HKD,236,282,282,,LOSE,265,kkday,Singapore Zoo Ticket with Tram Ride,2024-05-27,https://www.kkday.com/en/product/100148,Singapore,-17,-6.03%,16.31%,10.94%
+FALSE,FALSE,,,,2024-05-27,beiyi.lim@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,198,[Open Dated] Admission Ticket with Tram Ride (Local Residents),8001410101,Adult,MYR,142.49,170.15,170.15,,LOSE,153.9,traveloka,[Fixed-Date] Entrance Ticket - Includes Tram (Singapore Residents),2024-05-28,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-zoo-tickets-8382168721460,Singapore,-16.25,-9.55%,16.26%,7.41%
+FALSE,FALSE,,,,2024-05-27,beiyi.lim@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,220947,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951291994,Adult,MYR,141.65,170.15,170.15,170.99,LOSE,153.9,traveloka,[Fixed-Date] Entrance Ticket - Includes Tram (International Tourists),2024-05-27,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-zoo-tickets-8382168721460,Singapore,-16.25,-9.55%,16.75%,7.96%
+FALSE,FALSE,,,,2024-05-27,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18100,35200,31700,,LOSE,22900,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/128019,Singapore,-8800,-27.76%,42.90%,20.96%
+FALSE,FALSE,,,,2024-05-27,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,393547,Cable Car Sky Pass (Mount Faber Line only),828951681264,Child,TWD,333,523,470,473,LOSE,437,kkday,Cable Car Sky Pass (Mount Faber Line - Round Trip),2024-05-27,https://www.kkday.com/en/product/17933,Singapore,-33,-7.02%,29.15%,23.80%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4800,11100,9100,,LOSE,5350,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-3750,-41.21%,47.25%,10.28%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68567,Mastercard® Canopy Bridge + Free Canopy Park ,825872000201,Adult,KRW,8400,14000,12000,,LOSE,9309,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-2691,-22.43%,30.00%,9.76%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68704,Hedge Maze + Free Canopy Park,825872000301,Adult,KRW,8400,14000,12000,,LOSE,9309,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-2691,-22.43%,30.00%,9.76%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68709,Mirror Maze + Free Canopy Park,825872000401,Adult,KRW,11400,19000,16000,,LOSE,12626,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-3374,-21.09%,28.75%,9.71%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68712,Walking Net + Free Canopy Park,825872000501,Adult,KRW,11400,19000,16000,,LOSE,12626,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-3374,-21.09%,28.75%,9.71%
+FALSE,FALSE,,,,2024-05-27,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68715,Bouncing Net + Free Canopy Park,825872000601,Adult,KRW,15000,25100,21000,,LOSE,16692,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/134061,Singapore,-4308,-20.51%,28.57%,10.14%
+FALSE,FALSE,,,,2024-05-27,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,MYR,256.95,288.19,288.19,289.65,LOSE,267.8,traveloka,1-Day Entrance Ticket,2024-05-27,https://www.traveloka.com/en-sg/activities/singapore/product/universal-studios-singapore-4575897507406,Singapore,-20.39,-7.08%,10.84%,4.05%
+FALSE,FALSE,,,,2024-05-27,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",394322,S.E.A. Aquarium One-Day Ticket with 3D Ice-Cream ,828951682910,Adult,SGD,46.5,49.5,49.5,,BELOW COST,43.5,trip,Admission Ticket + 3D Ice Cream Adult Ticket,2024-05-28,https://www.trip.com/travel-guide/attraction/singapore/sea-aquarium-101913/,Singapore,-6,-12.12%,6.06%,-6.90%
+FALSE,FALSE,,,,2024-05-27,nicholas.kang@klook.com,Attractions,Segment 1,10552,Marina Bay Sands Skypark Observation Deck,23109,"Admission to Sands Skypark (Entry before 4pm, timeslot based)",828951338670,Adult,SGD,30,32,32,,BELOW COST,28,traveloka,SkyPark Observation Deck Entrance (Entry before 4PM),2024-05-27,https://www.traveloka.com/en-en/activities/singapore/product/marina-bay-sands-skypark-observation-deck-1000767877110,Singapore,-4,-12.50%,6.25%,-7.14%
+FALSE,FALSE,,,,2024-05-27,nicholas.kang@klook.com,Attractions,Segment 1,10552,Marina Bay Sands Skypark Observation Deck,23109,"Admission to Sands Skypark (Entry before 4pm, timeslot based)",828951338670,Adult,SGD,30,32,32,,LOSE,30,trip,Ticket Adult Ticket,2024-05-28,https://www.trip.com/travel-guide/attraction/singapore/marina-bay-sands-10354609/,Singapore,-2,-6.25%,6.25%,0.00%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),TWD,428,760,760,,LOSE,699,kkday,Flower Dome + Cloud Forest,2024-05-28,https://www.kkday.com/en/product/3158,Singapore,-61,-8.03%,43.68%,38.77%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),TWD,428,760,760,,LOSE,689,trip,Cloud Forest + Flower Dome Adult Ticket,2024-05-29,https://www.trip.com/travel-guide/attraction/singapore/gardens-by-the-bay-94795/,Singapore,-71,-9.34%,43.68%,37.88%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),IDR,94531,236329,236329,214692,LOSE,149960,traveloka,Floral Fantasy Entrance Ticket (International Tourists),2024-05-27,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-86369,-36.55%,60.00%,36.96%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),TWD,190,475,475,,LOSE,431,trip,Floral Fantasy Adult Ticket,2024-05-28,https://www.trip.com/travel-guide/attraction/singapore/gardens-by-the-bay-94795/,Singapore,-44,-9.26%,60.00%,55.92%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),KRW,18100,34200,34200,,LOSE,32000,kkday,Flower Dome + Supertree Observatory,2024-05-28,https://www.kkday.com/en/product/3158,Singapore,-2200,-6.43%,47.08%,43.44%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),TWD,428,808,808,,LOSE,736,trip,Flower Dome & Supertree Observatory Adult Ticket,2024-05-29,https://www.trip.com/travel-guide/attraction/singapore/gardens-by-the-bay-94795/,Singapore,-72,-8.91%,47.03%,41.85%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,345828,Outdoor Audio Tour (Tram),828951572640,Adult,TWD,202,238,238,,LOSE,218,kkday,Add On: 20 Minutes Tram Ride English / Chinese Audio Tour at Gardens by the Bay,2024-05-27,https://www.kkday.com/en/product/3158,Singapore,-20,-8.40%,15.13%,7.34%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,T&A,,6116,Bungy Jump & The New Tandem Bungy at Skypark Sentosa,247842,Tandem Bungy Jump (2 Pax),828951355480,2 Pax,KRW,206400,230600,230600,,BELOW COST,203041,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/110121,Singapore,-27559,-11.95%,10.49%,-1.65%
+FALSE,FALSE,,,,2024-05-27,vivian.tan@klook.com,T&A,,6116,Bungy Jump & The New Tandem Bungy at Skypark Sentosa,248480,[35% OFF] Bungy Jump,828951357075,Person,KRW,79800,170200,109800,,LOSE,100356,myrealtrip,,2024-05-27,https://www.myrealtrip.com/offers/110121,Singapore,-9444,-8.60%,27.32%,20.48%
+FALSE,FALSE,,,,2024-05-28,beiyi.lim@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,170,[Open Dated] Admission Ticket (Local Residents),828951443942,Adult,HKD,238,284,284,,LOSE,267,kkday,Bird Paradise Admission Ticket,2024-05-28,https://www.kkday.com/en/product/2967-bird-paradise-ticket-singapore,Singapore,-17,-5.99%,16.20%,10.86%
+FALSE,FALSE,,,,2024-05-28,beiyi.lim@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,171,[Open Dated] Admission Ticket (Local residents),8001240101,Adult,KRW,36300,43400,43400,43100,LOSE,40723,kkday,River Wonders Admission Ticket,2024-05-28,https://www.kkday.com/en/product/100153-river-wonders-ticket-river-safari-singapore,Singapore,-2677,-6.17%,16.36%,10.86%
+FALSE,FALSE,,,,2024-05-28,beiyi.lim@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,220960,[Open Dated] Admission Ticket (Non-residents) ,828951291999,Adult,KRW,36100,43400,43400,43100,LOSE,40723,kkday,River Wonders Admission Ticket,2024-05-28,https://www.kkday.com/en/product/100153-river-wonders-ticket-river-safari-singapore,Singapore,-2677,-6.17%,16.82%,11.35%
+FALSE,FALSE,,,,2024-05-28,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,KRW,17200,25200,20200,,LOSE,19179,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-05-28,https://www.kkday.com/en/product/103520,Singapore,-1021,-5.05%,14.85%,10.32%
+FALSE,FALSE,,,,2024-05-28,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,KRW,74700,83800,83800,,LOSE,77600,myrealtrip,,2024-05-28,https://www.myrealtrip.com/offers/128279,Singapore,-6200,-7.40%,10.86%,3.74%
+FALSE,FALSE,,,,2024-05-28,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,THB,1113,1194,1194,1193,BELOW COST,1111.47,trip,S.E.A. Aquarium Admission Ticket Adult Ticket,2024-05-29,https://www.trip.com/travel-guide/attraction/singapore/sea-aquarium-101913/,Singapore,-82.53,-6.91%,6.78%,-0.14%
+FALSE,FALSE,,,,2024-05-28,nicholas.kang@klook.com,Attractions,Segment 3,2121,Fun Discovery Pass at Sentosa,34969,Fun Discovery Pass 95 Tokens,8021210601,Person,SGD,74.05,90,81,,LOSE,76.5,trip,Sentosa Sentosa Fun Discovery Pass Standard Ticket,2024-05-29,https://www.trip.com/travel-guide/attraction/singapore/sentosa-82520/,Singapore,-4.5,-5.56%,8.58%,3.20%
+FALSE,FALSE,,,,2024-05-28,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),IDR,214423,381196,381196,,LOSE,316710,traveloka,Flower Dome + Cloud Forest (International Tourists),2024-05-28,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-64486,-16.92%,43.75%,32.30%
+FALSE,FALSE,,,,2024-05-28,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),IDR,214423,405021,405021,,LOSE,360640,traveloka,[COMBO] Flower Dome & Supertree Observatory (International Tourists),2024-05-28,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-44381,-10.96%,47.06%,40.54%
+FALSE,FALSE,,,,2024-05-29,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,USD,13.35,25.99,23.39,23.35,LOSE,21.27,viator,Cable Car Sky Pass,2024-05-29,https://www.viator.com/tours/Singapore/Singapore-Cable-Car-Sky-Pass/d60449-57373P16,Singapore,-2.12,-9.06%,42.92%,37.24%
+FALSE,FALSE,,,,2024-05-29,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,PHP,3187,3575,3575,3578,LOSE,3398.33,trip,Admission Ticket Adult Ticket,2024-05-30,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-176.67,-4.94%,10.85%,6.22%
+FALSE,FALSE,,,,2024-05-29,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,394298,One-Day Admission Ticket + 2x Naruto Retail Vouchers,828951682869,Adult,PHP,3187,3575,3575,3578,LOSE,3398.33,trip,Admission Ticket (With 2 Free Naruto Retail Voucher) Adult Ticket,2024-05-30,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-176.67,-4.94%,10.85%,6.22%
+FALSE,FALSE,,,,2024-05-29,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8100,20200,20200,,LOSE,16834,myrealtrip,,2024-05-29,https://www.myrealtrip.com/offers/53321,Singapore,-3366,-16.66%,59.90%,51.88%
+FALSE,FALSE,,,,2024-05-30,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,286204,[Open Dated] 20% OFF Wings of Time Premium Seat + Good Old Days Asian Buffet,828951443744,Person,IDR,408607,660981,560031,,LOSE,444608,trip,Wings of Time (Premium Seat) + Good Old Days Buffet Standard Ticket,2024-05-31,https://www.trip.com/travel-guide/attraction/singapore/wings-of-time-13384526/,Singapore,-115423,-20.61%,27.04%,8.10%
+FALSE,FALSE,,,,2024-05-30,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,289213,[Sentosa Bundle] Wings of Time (Standard) Ticket,828951450452,Person,IDR,132196,228339,205505,,BELOW COST,131118,trip,Ticket(Standard Seat),2024-05-31,https://www.trip.com/travel-guide/attraction/singapore/wings-of-time-13384526/,Singapore,-74387,-36.20%,35.67%,-0.82%
+FALSE,FALSE,,,,2024-05-30,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,SGD,74,83,83,83,BELOW MSP,79,kkday,Universal Studios Singapore Ticket,2024-05-30,https://www.kkday.com/en/product/2312-universal-studios-singapore-ticket,Singapore,-4,-4.82%,10.84%,6.33%
+FALSE,FALSE,,,,2024-05-30,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,[Summer Soiree 30% Off] Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,USD,17.75,35.55,31.09,31.15,LOSE,24.87,trip,Standard Ticket+Marvel 4D+Digiphoto Standard Ticket,2024-05-31,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-6.22,-20.01%,42.91%,28.63%
+FALSE,FALSE,,,,2024-05-31,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,IDR,204322,300474,240379,,LOSE,227050,traveloka,[Bundle Promo] Science Centre Singapore & KidsSTOP Singapore Admission Ticket,2024-06-11,https://www.traveloka.com/en-sg/activities/singapore/product/science-centre-singapore-1000317900454,Singapore,-13329,-5.54%,15.00%,10.01%
+FALSE,FALSE,,,,2024-05-31,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),HKD,70,70,70,,BELOW COST,69,kkday,[Open Date] Additional Adult (3 Hours Playtime),2024-05-31,https://www.kkday.com/en/product/103971,Singapore,-1,-1.43%,0.00%,-1.45%
+FALSE,FALSE,,,,2024-05-31,saiseong.chue@klook.com,Attractions,Segment 3,1348,Snow City Singapore Ticket,60587,Snow Play Session (1 Hour) + 1 Ice Bumper Car Ride ,801348000201,Person,HKD,78,145,92,108,LOSE,91,kkday,[Open Date] 1-Hour / 2-Hour Snow Play Session + Bumper Car,2024-06-01,https://www.kkday.com/en/product/13923,Singapore,-1,-1.09%,15.22%,14.29%
+FALSE,FALSE,,,,2024-06-01,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),IDR,144348,144348,144348,,BELOW COST,142878,trip,Pororo Park Singapore 3 hour ticket Adult Ticket,2024-06-02,https://sg.trip.com/travel-guide/attraction/singapore/pororo-park-singapore-30776563/,Singapore,-1470,-1.02%,0.00%,-1.03%
+FALSE,FALSE,,,,2024-06-02,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,191,[Open Dated] Wings of Time (Standard) Ticket,8001350101, Per Person,KRW,11200,19400,17500,,LOSE,16600,kkday,Wings of Time Ticket,2024-06-02,https://www.kkday.com/en/product/19491-sentosa-wings-of-time-ticket,Singapore,-900,-5.14%,36.00%,32.53%
+FALSE,FALSE,,,,2024-06-02,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,341590,"VIP Experiences (Admission, Unlimited Express Pass & Guided Tour Included) - Peak Date",828951563723,Adult,SGD,361.2,398,398,,BELOW COST,358,traveloka,[Peak] VIP Tour Experience,2024-07-01,https://www.traveloka.com/en-sg/activities/singapore/product/universal-studios-singapore-4575897507406,Singapore,-40,-10.05%,9.25%,-0.89%
+FALSE,FALSE,,,,2024-06-03,beiyi.lim@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,198,[Open Dated] Admission Ticket with Tram Ride (Local Residents),8001410101,Adult,MYR,142.75,170.45,170.45,,LOSE,153.6,traveloka,[Fixed-Date] Entrance Ticket - Includes Tram (Singapore Residents),2024-06-04,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-zoo-tickets-8382168721460,Singapore,-16.85,-9.89%,16.25%,7.06%
+FALSE,FALSE,,,,2024-06-03,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,MYR,59.15,86.95,69.59,,LOSE,66,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-11,https://www.kkday.com/en/product/103520-singapore-science-centre-ticket,Singapore,-3.59,-5.16%,15.00%,10.38%
+FALSE,FALSE,,,,2024-06-03,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,393547,Cable Car Sky Pass (Mount Faber Line only),828951681264,Child,TWD,336,528,475,476,LOSE,437,kkday,Cable Car Sky Pass (Mount Faber Line - Round Trip),2024-06-04,https://www.kkday.com/en/product/17933,Singapore,-38,-8.00%,29.26%,23.11%
+FALSE,FALSE,,,,2024-06-03,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,286204,[Open Dated] 20% OFF Wings of Time Premium Seat + Good Old Days Asian Buffet,828951443744,Person,IDR,408394,660637,559740,,LOSE,444127,trip,Wings of Time (Premium Seat) + Good Old Days Buffet Standard Ticket,2024-06-04,https://www.trip.com/travel-guide/attraction/singapore/wings-of-time-13384526/,Singapore,-115613,-20.65%,27.04%,8.05%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4900,11200,9200,,LOSE,5457,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-3743,-40.68%,46.74%,10.21%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68567,Mastercard® Canopy Bridge + Free Canopy Park ,825872000201,Adult,KRW,8500,14200,12200,,LOSE,9416,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-2784,-22.82%,30.33%,9.73%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68704,Hedge Maze + Free Canopy Park,825872000301,Adult,KRW,8500,14200,12200,,LOSE,9416,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-2784,-22.82%,30.33%,9.73%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68709,Mirror Maze + Free Canopy Park,825872000401,Adult,KRW,11500,19300,16200,,LOSE,12840,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-3360,-20.74%,29.01%,10.44%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68712,Walking Net + Free Canopy Park,825872000501,Adult,KRW,11500,19300,16200,,LOSE,12840,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-3360,-20.74%,29.01%,10.44%
+FALSE,FALSE,,,,2024-06-03,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68715,Bouncing Net + Free Canopy Park,825872000601,Adult,KRW,15200,25400,21400,,LOSE,16906,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/134061,Singapore,-4494,-21.00%,28.97%,10.09%
+FALSE,FALSE,,,,2024-06-03,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,KRW,75600,84800,84800,,LOSE,77600,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/128279,Singapore,-7200,-8.49%,10.85%,2.58%
+FALSE,FALSE,,,,2024-06-03,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,KRW,75600,84800,84800,,LOSE,77600,kkday,Universal Studios Singapore Ticket,2024-06-03,https://www.kkday.com/en/product/2312,Singapore,-7200,-8.49%,10.85%,2.58%
+FALSE,FALSE,,,,2024-06-03,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,394298,One-Day Admission Ticket + 2x Naruto Retail Vouchers,828951682869,Adult,MYR,257.39,288.69,288.69,288.69,LOSE,267.4,traveloka,1-Day Entrance Ticket with Free Entry to Naruto Exhibition (Valid on 22 April - 30 June 2024),2024-06-03,https://www.traveloka.com/en-en/activities/singapore/product/universal-studios-singapore-4575897507406,Singapore,-21.29,-7.37%,10.84%,3.74%
+FALSE,FALSE,,,,2024-06-03,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8200,20400,20400,,LOSE,17729,myrealtrip,,2024-06-03,https://www.myrealtrip.com/offers/53321,Singapore,-2671,-13.09%,59.80%,53.75%
+FALSE,FALSE,,,,2024-06-04,vivian.tan@klook.com,T&A,,6116,Bungy Jump & The New Tandem Bungy at Skypark Sentosa,247842,Tandem Bungy Jump (2 Pax),828951355480,2 Pax,KRW,208900,233400,233400,,BELOW COST,205020,myrealtrip,,2024-06-04,https://www.myrealtrip.com/offers/110121,Singapore,-28380,-12.16%,10.50%,-1.89%
+FALSE,FALSE,,,,2024-06-04,vivian.tan@klook.com,T&A,,6116,Bungy Jump & The New Tandem Bungy at Skypark Sentosa,248480,[35% OFF] Bungy Jump,828951357075,Person,KRW,80700,172200,111100,,LOSE,101335,myrealtrip,,2024-06-04,https://www.myrealtrip.com/offers/110121,Singapore,-9765,-8.79%,27.36%,20.36%
+FALSE,FALSE,,,,2024-06-05,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18400,35800,32200,,LOSE,30500,myrealtrip,,2024-06-05,https://www.myrealtrip.com/offers/128019,Singapore,-1700,-5.28%,42.86%,39.67%
+FALSE,FALSE,,,,2024-06-05,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,191,[Open Dated] Wings of Time (Standard) Ticket,8001350101, Per Person,KRW,11200,19400,17500,,LOSE,16600,kkday,Wings of Time Ticket,2024-06-05,https://www.kkday.com/en/product/19491,Singapore,-900,-5.14%,36.00%,32.53%
+FALSE,FALSE,,,,2024-06-05,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),IDR,145031,145031,145031,,BELOW COST,143382,trip,Pororo Park Singapore 3 hour ticket Adult Ticket,2024-06-06,https://sg.trip.com/travel-guide/attraction/singapore/pororo-park-singapore-30776563/,Singapore,-1649,-1.14%,0.00%,-1.15%
+FALSE,FALSE,,,,2024-06-05,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,PHP,3234,3627,3627,,LOSE,3401.39,trip,Admission Ticket Adult Ticket,2024-06-06,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-225.61,-6.22%,10.84%,4.92%
+FALSE,FALSE,,,,2024-06-06,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,IDR,205557,302289,241831,,LOSE,228790,traveloka,[Bundle Promo] Science Centre Singapore & KidsSTOP Singapore Admission Ticket,2024-06-11,https://www.traveloka.com/en-sg/activities/singapore/product/science-centre-singapore-1000317900454,Singapore,-13041,-5.39%,15.00%,10.15%
+FALSE,FALSE,,,,2024-06-06,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,IDR,362747,662376,580154,,LOSE,370402,trip,Singapore Cable Car Sky Pass (1 Round Trip)+ Arbora Cake Set Adult Ticket,2024-06-07,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-209752,-36.15%,37.47%,2.07%
+FALSE,FALSE,,,,2024-06-06,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295289,Luge & Skyride (3 Rounds),828951462750,Person,PHP,1296,1525,1416,1491,LOSE,1394.82,trip,Skyline Luge Singapore + Skyride Ticket Standard Ticket,2024-06-08,https://www.trip.com/travel-guide/attraction/singapore/skyline-luge-singapore-10758882/,Singapore,-21.18,-1.50%,8.47%,7.08%
+FALSE,FALSE,,,,2024-06-06,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295289,Luge & Skyride (3 Rounds),828951462750,Person,PHP,1296,1525,1416,1491,LOSE,1373.6,traveloka,3 Luge & 3 Skyride Combo - Flexi (OTA),2024-06-07,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-42.4,-2.99%,8.47%,5.65%
+FALSE,FALSE,,,,2024-06-06,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295292,Luge & Skyride (4 Rounds),828951462766,Person,PHP,1407,1656,1534,1573,LOSE,1491.3,traveloka,4 Luge & 4 Skyride Combo - Flexi (OTA),2024-06-07,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-42.7,-2.78%,8.28%,5.65%
+FALSE,FALSE,,,,2024-06-07,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),KRW,18300,32500,32500,,LOSE,29646,myrealtrip,,2024-06-07,https://www.myrealtrip.com/offers/53321,Singapore,-2854,-8.78%,43.69%,38.27%
+FALSE,FALSE,,,,2024-06-09,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,USD,22.2,40.55,35.55,,LOSE,27.73,kkday,Combo Deal: Cable Car Sky Pass (Round Trip) + Arbora Set Meal / Singapore Sling / Cake Set,2024-06-10,https://www.kkday.com/en/product/17933,Singapore,-7.82,-22.00%,37.55%,19.94%
+FALSE,FALSE,,,,2024-06-10,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,THB,463,681,545,,LOSE,513.99,traveloka,[Bundle Promo] Science Centre Singapore & KidsSTOP Singapore Admission Ticket,2024-06-11,https://www.traveloka.com/en-sg/activities/singapore/product/science-centre-singapore-1000317900454,Singapore,-31.01,-5.69%,15.05%,9.92%
+FALSE,FALSE,,,,2024-06-10,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,USD,22.2,40.55,35.55,,LOSE,27.76,kkday,Combo Deal: Cable Car Sky Pass (Round Trip) + Arbora Set Meal / Singapore Sling / Cake Set,2024-06-11,https://www.kkday.com/en/product/17933,Singapore,-7.79,-21.91%,37.55%,20.03%
+FALSE,FALSE,,,,2024-06-10,chloe.ang@klook.com,Attractions,Segment 2,135,Wings of Time Show Ticket in Singapore,191,[Open Dated] Wings of Time (Standard) Ticket,8001350101, Per Person,KRW,11200,19400,17500,,LOSE,16600,kkday,Wings of Time Ticket,2024-06-10,https://www.kkday.com/en/product/19491,Singapore,-900,-5.14%,36.00%,32.53%
+FALSE,FALSE,,,,2024-06-10,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),IDR,144573,144573,144573,,BELOW COST,143030,trip,Pororo Park Singapore 3 hour ticket Adult Ticket,2024-06-11,https://sg.trip.com/travel-guide/attraction/singapore/pororo-park-singapore-30776563/,Singapore,-1543,-1.07%,0.00%,-1.08%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295292,Luge & Skyride (4 Rounds),828951462766,Person,PHP,1405,1653,1531,1621,LOSE,1489.5,traveloka,4 Luge & 4 Skyride Combo - Flexi (OTA),2024-06-11,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-41.5,-2.71%,8.23%,5.67%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4900,11200,9200,,LOSE,5457,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-3743,-40.68%,46.74%,10.21%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68567,Mastercard® Canopy Bridge + Free Canopy Park ,825872000201,Adult,KRW,8500,14200,12200,,LOSE,9416,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-2784,-22.82%,30.33%,9.73%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68704,Hedge Maze + Free Canopy Park,825872000301,Adult,KRW,8500,14200,12200,,LOSE,9416,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-2784,-22.82%,30.33%,9.73%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68709,Mirror Maze + Free Canopy Park,825872000401,Adult,KRW,11500,19300,16200,,LOSE,12840,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-3360,-20.74%,29.01%,10.44%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68712,Walking Net + Free Canopy Park,825872000501,Adult,KRW,11500,19300,16200,,LOSE,12840,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-3360,-20.74%,29.01%,10.44%
+FALSE,FALSE,,,,2024-06-10,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68715,Bouncing Net + Free Canopy Park,825872000601,Adult,KRW,15200,25400,21400,,LOSE,16906,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/134061,Singapore,-4494,-21.00%,28.97%,10.09%
+FALSE,FALSE,,,,2024-06-10,vivian.tan@klook.com,T&A,,6116,Bungy Jump & The New Tandem Bungy at Skypark Sentosa,247842,Tandem Bungy Jump (2 Pax),828951355480,2 Pax,KRW,209400,234000,210600,,BELOW COST,204871,myrealtrip,,2024-06-10,https://www.myrealtrip.com/offers/110121,Singapore,-5729,-2.72%,0.57%,-2.21%
+FALSE,FALSE,,,,2024-06-11,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,MYR,59.35,87.25,69.79,,LOSE,66,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-11,https://www.kkday.com/en/product/103520,Singapore,-3.79,-5.43%,14.96%,10.08%
+FALSE,FALSE,,,,2024-06-11,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),KRW,18300,32500,32500,,LOSE,29857,myrealtrip,,2024-06-11,https://www.myrealtrip.com/offers/53321,Singapore,-2643,-8.13%,43.69%,38.71%
+FALSE,FALSE,,,,2024-06-11,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),SGD,18,32,32,32,LOSE,28.8,trip,Cloud Forest + Flower Dome Adult Ticket,2024-06-12,https://www.trip.com/travel-guide/attraction/singapore/gardens-by-the-bay-94795/,Singapore,-3.2,-10.00%,43.75%,37.50%
+FALSE,FALSE,,,,2024-06-11,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8100,20300,20300,,LOSE,18674,myrealtrip,,2024-06-11,https://www.myrealtrip.com/offers/53321,Singapore,-1626,-8.01%,60.10%,56.62%
+FALSE,FALSE,,,,2024-06-11,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),SGD,8,20,20,20,LOSE,18,trip,Floral Fantasy Adult Ticket,2024-06-12,https://www.trip.com/travel-guide/attraction/singapore/gardens-by-the-bay-94795/,Singapore,-2,-10.00%,60.00%,55.56%
+FALSE,FALSE,,,,2024-06-12,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18400,35700,32100,,LOSE,30400,myrealtrip,,2024-06-12,https://www.myrealtrip.com/offers/128019,Singapore,-1700,-5.30%,42.68%,39.47%
+FALSE,FALSE,,,,2024-06-12,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,3002,Cable Car Sky Pass (Round Trip) + Arbora Meal ,828951448760,Adult,IDR,517898,1152504,988583,,LOSE,595245,trip,Singapore Cable Car Sky Pass (1 Round Trip)+ Arbora Set Meal Adult Ticket,2024-06-13,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-393338,-39.79%,47.61%,12.99%
+FALSE,FALSE,,,,2024-06-12,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,TWD,718,1311,1148,,LOSE,834,trip,Singapore Cable Car Sky Pass (1 Round Trip)+ Arbora Cake Set Adult Ticket,2024-06-13,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-314,-27.35%,37.46%,13.91%
+FALSE,FALSE,,,,2024-06-13,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,198,[Open Dated] Admission Ticket with Tram Ride (Local Residents),8001410101,Adult,MYR,153.85,170.95,170.95,,BELOW COST,153.8,traveloka,[Fixed-Date] Entrance Ticket - Includes Tram (Singapore Residents),2024-06-14,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-zoo-tickets-8382168721460,Singapore,-17.15,-10.03%,10.00%,-0.03%
+FALSE,FALSE,,,,2024-06-13,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,210075,Universal Express (Admission not included),828951316220,Express Pass,THB,2449,2558,2558,,BELOW COST,2170,kkday,Add On: Universal Express Pass or Unlimited Express Pass (Exclude Universal Studios Singapore Admission Ticket),2024-06-25,https://www.kkday.com/en/product/2312-universal-studios-singapore-ticket,Singapore,-388,-15.17%,4.26%,-12.86%
+FALSE,FALSE,,,,2024-06-13,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,THB,2014,2259,2123,,BELOW COST,2005.9,trip,Admission Ticket Adult Ticket,2024-06-14,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-117.1,-5.52%,5.13%,-0.40%
+FALSE,FALSE,,,,2024-06-14,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292243,Child (18 months-8 years),KRW,21400,31600,25300,,LOSE,23944,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-14,https://www.kkday.com/en/product/103520,Singapore,-1356,-5.36%,15.42%,10.62%
+FALSE,FALSE,,,,2024-06-14,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,394298,One-Day Admission Ticket + 2x Naruto Retail Vouchers,828951682869,Adult,KRW,75500,84700,84700,,LOSE,77600,kkday,[USS Naruto Promo] Universal Studios Singapore + 2 x S$5 USS Retail Voucher (Min Spend S$50),2024-06-14,https://www.kkday.com/en/product/2312,Singapore,-7100,-8.38%,10.86%,2.71%
+FALSE,FALSE,,,,2024-06-14,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,[Visit Before 12 July] Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),TWD,432,768,768,,LOSE,680,kkday,"Flower Dome + Cloud Forest (For visit date before July 12, 2024)",2024-06-14,https://www.kkday.com/en/product/3158,Singapore,-88,-11.46%,43.75%,36.47%
+FALSE,FALSE,,,,2024-06-14,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),IDR,96458,241146,241146,241146,LOSE,138695,kkday,Floral Fantasy,2024-06-14,https://www.kkday.com/en/product/3158,Singapore,-102451,-42.49%,60.00%,30.45%
+FALSE,FALSE,,,,2024-06-14,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,[Visit Before 12 July] Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),TWD,432,816,816,,LOSE,728,kkday,"Flower Dome + Supertree Observatory (For visit date before July 11, 2024)",2024-06-14,https://www.kkday.com/en/product/3158,Singapore,-88,-10.78%,47.06%,40.66%
+FALSE,FALSE,,,,2024-06-15,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),IDR,146096,146096,146096,,BELOW COST,144472,traveloka,Adult Entrance Ticket (3-Hour Playtime),2024-06-15,https://www.traveloka.com/en-sg/activities/singapore/product/pororo-park-8207068136648,Singapore,-1624,-1.11%,0.00%,-1.12%
+FALSE,FALSE,,,,2024-06-15,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,IDR,499160,535684,535684,535684,LOSE,506270,traveloka,1-Day Admission Ticket,2024-06-15,https://www.traveloka.com/en-en/activities/singapore/product/sea-aquarium-5125446092219,Singapore,-29414,-5.49%,6.82%,1.40%
+FALSE,FALSE,,,,2024-06-16,chloe.ang@klook.com,T&A,,5526,The Original DUCKtours Singapore ,169756,Admission Ticket (English),828951161992,Adult,TWD,937,1171,1054,1055,LOSE,968,kkday,[Fixed Date] Singapore DUCKtours Ticket,2024-06-17,https://www.kkday.com/en/product/102371-original-ducktours-ticket-singapore,Singapore,-86,-8.16%,11.10%,3.20%
+FALSE,FALSE,,,,2024-06-17,beiyi.lim@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292243,Child (18 months-8 years),SGD,21,31,24.8,,LOSE,23.5,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-18,https://www.kkday.com/en/product/103520,Singapore,-1.3,-5.24%,15.32%,10.64%
+FALSE,FALSE,,,,2024-06-17,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,PHP,1301,2375,2080,,LOSE,1515.86,trip,Singapore Cable Car Sky Pass Round-Trip (Sentosa Line & Mount Faber Line)+ Arbora Cake Set Adult Ticket,2024-06-18,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-564.14,-27.12%,37.45%,14.17%
+FALSE,FALSE,,,,2024-06-17,chloe.ang@klook.com,Attractions,Segment 3,21054,Pororo Park Singapore Ticket,378433,Additional Adult Ticket,828951649853,Adult (12 years old and above),IDR,146048,146048,146048,,BELOW COST,144472,traveloka,Adult Entrance Ticket (3-Hour Playtime),2024-06-17,https://www.traveloka.com/en-sg/activities/singapore/product/pororo-park-8207068136648,Singapore,-1576,-1.08%,0.00%,-1.09%
+FALSE,FALSE,,,,2024-06-17,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295292,Luge & Skyride (4 Rounds),828951462766,Person,PHP,1400,1648,1526,1581,LOSE,1483,traveloka,4 Luge & 4 Skyride Combo - Flexi (OTA),2024-06-18,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-43,-2.82%,8.26%,5.60%
+FALSE,FALSE,,,,2024-06-17,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,198,[Open Dated] Admission Ticket with Tram Ride (Local Residents),8001410101,Adult,MYR,153.75,170.8,170.8,,LOSE,153.9,traveloka,[Fixed-Date] Entrance Ticket - Includes Tram (Singapore Residents),2024-06-18,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-zoo-tickets-8382168721460,Singapore,-16.9,-9.89%,9.98%,0.10%
+FALSE,FALSE,,,,2024-06-17,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,397009,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951688537,Adult,KRW,40900,50100,50100,,LOSE,46918,myrealtrip,,2024-06-17,https://www.myrealtrip.com/offers/54833,Singapore,-3182,-6.35%,18.36%,12.83%
+FALSE,FALSE,,,,2024-06-17,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4900,11200,9200,,LOSE,8400,myrealtrip,,2024-06-17,https://www.myrealtrip.com/offers/134061,Singapore,-800,-8.70%,46.74%,41.67%
+FALSE,FALSE,,,,2024-06-17,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,210075,Universal Express (Admission not included),828951316220,Express Pass,TWD,2150,2246,2246,,BELOW COST,1911,kkday,Add On: Universal Express Pass or Unlimited Express Pass (Exclude Universal Studios Singapore Admission Ticket),2024-06-25,https://www.kkday.com/en/product/2312,Singapore,-335,-14.92%,4.27%,-12.51%
+FALSE,FALSE,,,,2024-06-17,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,270240,One-Day Admission,828951406768,Adult,PHP,3209,3599,3382,,BELOW COST,3204.96,trip,Admission Ticket Adult Ticket,2024-06-18,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-177.04,-5.23%,5.12%,-0.13%
+FALSE,FALSE,,,,2024-06-17,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,394298,One-Day Admission Ticket + 2x Naruto Retail Vouchers,828951682869,Adult,KRW,75600,84800,84800,,LOSE,77600,kkday,[USS Naruto Promo] Universal Studios Singapore + 2 x S$5 USS Retail Voucher (Min Spend S$50),2024-06-17,https://www.kkday.com/en/product/2312,Singapore,-7200,-8.49%,10.85%,2.58%
+FALSE,FALSE,,,,2024-06-17,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,IDR,498998,535511,535511,535511,LOSE,506270,traveloka,1-Day Admission Ticket,2024-06-17,https://www.traveloka.com/en-en/activities/singapore/product/sea-aquarium-5125446092219,Singapore,-29241,-5.46%,6.82%,1.44%
+FALSE,FALSE,,,,2024-06-17,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8200,20400,20400,,LOSE,17940,myrealtrip,,2024-06-17,https://www.myrealtrip.com/offers/53321,Singapore,-2460,-12.06%,59.80%,54.29%
+FALSE,FALSE,,,,2024-06-18,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",185823,Combo Ticket: Science Centre + Omni Theatre,828951196047,Adult,MYR,54.09,90.69,72.55,73.65,LOSE,69.41,trip,Science Center + Omni Theather Adult Ticket,2024-06-19,https://us.trip.com/travel-guide/attraction/singapore/science-centre-singapore-13086709/,Singapore,-3.14,-4.33%,25.44%,22.07%
+FALSE,FALSE,,,,2024-06-18,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,394298,One-Day Admission Ticket + 2x Naruto Retail Vouchers,828951682869,Adult,SGD,74,83,83,83,BELOW MSP,75,trip,Admission Ticket with 2 Complimentary Naruto Retail Voucher Adult Ticket,2024-06-19,https://www.trip.com/travel-guide/attraction/singapore/universal-studios-singapore-89732/,Singapore,-8,-9.64%,10.84%,1.33%
+FALSE,FALSE,,,,2024-06-18,nicholas.kang@klook.com,Attractions,Segment 3,2121,Fun Discovery Pass at Sentosa,34969,Fun Discovery Pass 95 Tokens,8021210601,Person,USD,54.75,66.55,59.89,60.29,LOSE,56.55,trip,Sentosa Sentosa Fun Discovery Pass Standard Ticket,2024-06-19,https://www.trip.com/travel-guide/attraction/singapore/sentosa-82520/,Singapore,-3.34,-5.58%,8.58%,3.18%
+FALSE,FALSE,,,,2024-06-18,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,[Visit Before 12 July] Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),CNY,97,182,182,,LOSE,114,kkday,"Flower Dome + Supertree Observatory (For visit date before July 11, 2024)",2024-06-18,https://www.kkday.com/en/product/3158,Singapore,-68,-37.36%,46.70%,14.91%
+FALSE,FALSE,,,,2024-06-19,beiyi.lim@klook.com,Attractions,Segment 3,1199,National Museum of Singapore Ticket,353400,All Access Pass (Inclusive of Special Exhibition: Plastic)(Foreigners) ,828951587255,Adult,PHP,564,781,651,,LOSE,600.51,trip,All Access Pass (Include Permanent Exhibition+Current Special Exhibition) Adult Ticket,2024-06-20,https://www.trip.com/travel-guide/attraction/singapore/national-museum-of-singapore-76129/,Singapore,-50.49,-7.76%,13.36%,6.08%
+FALSE,FALSE,,,,2024-06-19,beiyi.lim@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",35145,Cardholder Workshop,8159190501,Person,SGD,85.5,95,95,,BELOW COST,83,kkday,Leather Craft Workshop - Cardholder,2024-06-20,https://www.kkday.com/en/product/36838,Singapore,-12,-12.63%,10.00%,-3.01%
+FALSE,FALSE,,,,2024-06-19,beiyi.lim@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",85284,Moneta Mini Wallet Workshop,828951007025,Person,SGD,80.1,89,89,,BELOW COST,80,kkday,Moneta Mini Wallet Workshop,2024-06-20,https://www.kkday.com/en/product/36838,Singapore,-9,-10.11%,10.00%,-0.12%
+FALSE,FALSE,,,,2024-06-19,chloe.ang@klook.com,Attractions,Segment 3,1256,National Gallery Singapore Ticket,2628,General Admission (Foreign Nationals),8012560301,Adult,KRW,10200,20400,14300,,LOSE,11335,myrealtrip,,2024-06-19,https://www.myrealtrip.com/offers/72690,Singapore,-2965,-20.73%,28.67%,10.01%
+FALSE,FALSE,,,,2024-06-19,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,HKD,98,144,116,,LOSE,109.76,trip,Science Center+KIDsSTOP Adult Ticket,2024-06-22,https://us.trip.com/travel-guide/attraction/singapore/science-centre-singapore-13086709/,Singapore,-6.24,-5.38%,15.52%,10.71%
+FALSE,FALSE,,,,2024-06-19,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,HKD,98,144,116,,LOSE,110,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-19,https://www.kkday.com/en/product/103520,Singapore,-6,-5.17%,15.52%,10.91%
+FALSE,FALSE,,,,2024-06-19,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,[Visit Before 12 July] Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),HKD,104,185,185,,LOSE,170,kkday,"Flower Dome + Cloud Forest (For visit date before July 12, 2024)",2024-06-19,https://www.kkday.com/en/product/3158,Singapore,-15,-8.11%,43.78%,38.82%
+FALSE,FALSE,,,,2024-06-20,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,KRW,42000,45000,45000,,LOSE,42730,kkday,S.E.A. Aquarium Ticket,2024-06-20,https://www.kkday.com/en-my/product/2467-sea-aquarium-tickets-singapore,Singapore,-2270,-5.04%,6.67%,1.71%
+FALSE,FALSE,,,,2024-06-20,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,[Visit Before 12 July] Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),IDR,218539,388514,388514,388514,LOSE,245610,traveloka,Flower Dome + Cloud Forest (International Tourists),2024-06-20,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-142904,-36.78%,43.75%,11.02%
+FALSE,FALSE,,,,2024-06-20,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,[Visit Before 12 July] Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),IDR,218539,412796,412796,412796,LOSE,245610,traveloka,[COMBO] Flower Dome & Supertree Observatory (International Tourists),2024-06-20,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-167186,-40.50%,47.06%,11.02%
+FALSE,FALSE,,,,2024-06-21,chloe.ang@klook.com,T&A,,3846,Singapore River Cruise,285484,Admission Ticket,828951442223,Adult,KRW,23600,28800,25700,,LOSE,24360,myrealtrip,,2024-06-21,https://www.myrealtrip.com/offers/126840,Singapore,-1340,-5.21%,8.17%,3.12%
+FALSE,FALSE,,,,2024-06-24,beiyi.lim@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",35145,Cardholder Workshop,8159190501,Person,SGD,85.5,95,95,,BELOW COST,83,kkday,Leather Craft Workshop - Cardholder,2024-06-25,https://www.kkday.com/en/product/36838,Singapore,-12,-12.63%,10.00%,-3.01%
+FALSE,FALSE,,,,2024-06-24,beiyi.lim@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",85284,Moneta Mini Wallet Workshop,828951007025,Person,SGD,80.1,89,89,,BELOW COST,80,kkday,Moneta Mini Wallet Workshop,2024-06-25,https://www.kkday.com/en/product/36838,Singapore,-9,-10.11%,10.00%,-0.12%
+FALSE,FALSE,,,,2024-06-24,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,MYR,104.35,190.55,166.89,,LOSE,121.71,trip,Singapore Cable Car Sky Pass Round-Trip (Sentosa Line & Mount Faber Line)+ Arbora Cake Set Adult Ticket,2024-06-25,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-45.18,-27.07%,37.47%,14.26%
+FALSE,FALSE,,,,2024-06-24,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295292,Luge & Skyride (4 Rounds),828951462766,Person,USD,23.85,28.05,25.99,26.95,LOSE,25.24,traveloka,4 Luge & 4 Skyride Combo - Flexi (OTA),2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-0.75,-2.89%,8.23%,5.51%
+FALSE,FALSE,,,,2024-06-24,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,397009,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951688537,Adult,KRW,41000,50200,50200,,LOSE,46918,myrealtrip,,2024-06-25,https://www.myrealtrip.com/offers/54833,Singapore,-3282,-6.54%,18.33%,12.61%
+FALSE,FALSE,,,,2024-06-24,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292243,Child (18 months-8 years),HKD,121,179,143,,LOSE,135,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-25,https://www.kkday.com/en/product/103520,Singapore,-8,-5.59%,15.38%,10.37%
+FALSE,FALSE,,,,2024-06-24,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4900,11300,9200,,LOSE,8400,myrealtrip,,2024-06-24,https://www.myrealtrip.com/offers/134061,Singapore,-800,-8.70%,46.74%,41.67%
+FALSE,FALSE,,,,2024-06-24,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,[Visit Before 12 July] Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),IDR,218712,388821,388821,,LOSE,245240,traveloka,Flower Dome + Cloud Forest (International Tourists),2024-06-26,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-143581,-36.93%,43.75%,10.82%
+FALSE,FALSE,,,,2024-06-24,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,256331,[Visit Before 12 July] Flower Dome & Supertree Observatory,828951374135,Adult(Non-Resident),IDR,218712,413122,413122,,LOSE,245240,traveloka,[COMBO] Flower Dome & Supertree Observatory (International Tourists),2024-06-24,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-167882,-40.64%,47.06%,10.82%
+FALSE,FALSE,,,,2024-06-25,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,MYR,62.69,121.85,109.69,109.55,LOSE,64.6,traveloka,Cable Car Sky Pass (Round-trip),2024-06-25,https://www.traveloka.com/en-my/activities/singapore/product/singapore-cable-car-3606574987115,Singapore,-45.09,-41.11%,42.85%,2.96%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,170,[Open Dated] Admission Ticket (Local Residents),828951443942,Adult,MYR,153.55,170.59,170.59,,BELOW COST,149.1,traveloka,[Flexible Date] Entrance Ticket (Singaporean Citizens),2024-06-25,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-21.49,-12.60%,9.99%,-2.98%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,220957,[Open Dated] Admission Ticket (Non-residents),828951291996,Adult,MYR,145,170.59,170.59,170.39,LOSE,145,traveloka,[Flexible Date] Entrance Ticket (International Tourists),2024-06-25,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-25.59,-15.00%,15.00%,0.00%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295271,Luge & Skyride (2 Rounds) + Luge branded merchandise,828951462723,Person,MYR,103.59,128.85,115.95,115.9,LOSE,106.8,traveloka,2 Luge & 2 Skyride combo + Luge merchandise (OTA),2024-06-26,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-9.15,-7.89%,10.66%,3.01%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295289,Luge & Skyride (3 Rounds),828951462750,Person,THB,806,948,880,904,LOSE,854.5,traveloka,3 Luge & 3 Skyride Combo - Flexi (OTA),2024-06-26,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-25.5,-2.90%,8.41%,5.68%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,220947,[Open Dated] Admission Ticket with Tram Ride (Non-residents Child),828951295238,Child,KRW,29600,34800,34800,34300,LOSE,31960,myrealtrip,,2024-06-25,https://www.myrealtrip.com/offers/54833,Singapore,-2840,-8.16%,14.94%,7.38%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68567,Mastercard® Canopy Bridge + Free Canopy Park ,825872000201,Adult,MYR,28.89,48.39,41.45,41.39,LOSE,33.3,traveloka,[COMBO] Mastercard® Canopy Bridge & Canopy Park,2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/jewel-changi-airport-attractions-tickets-2001497984425,Singapore,-8.15,-19.66%,30.30%,13.24%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68704,Hedge Maze + Free Canopy Park,825872000301,Adult,MYR,28.89,48.39,41.45,41.39,LOSE,33.3,traveloka,[COMBO] Hedge Maze & Canopy Park,2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/jewel-changi-airport-attractions-tickets-2001497984425,Singapore,-8.15,-19.66%,30.30%,13.24%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68709,Mirror Maze + Free Canopy Park,825872000401,Adult,MYR,39.35,65.8,55.35,55.29,LOSE,44.9,traveloka,[COMBO] Mirror Maze & Canopy Park,2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/jewel-changi-airport-attractions-tickets-2001497984425,Singapore,-10.45,-18.88%,28.91%,12.36%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68712,Walking Net + Free Canopy Park,825872000501,Adult,MYR,39.35,65.8,55.35,55.29,LOSE,44.9,traveloka,[COMBO] Walking Net & Canopy Park,2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/jewel-changi-airport-attractions-tickets-2001497984425,Singapore,-10.45,-18.88%,28.91%,12.36%
+FALSE,FALSE,,,,2024-06-25,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68715,Bouncing Net + Free Canopy Park,825872000601,Adult,MYR,51.89,86.69,72.79,72.69,LOSE,58.8,traveloka,[COMBO] Bouncing Net & Canopy Park,2024-06-25,https://www.traveloka.com/en-en/activities/singapore/product/jewel-changi-airport-attractions-tickets-2001497984425,Singapore,-13.99,-19.22%,28.71%,11.75%
+FALSE,FALSE,,,,2024-06-25,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,MYR,66.84,167.15,117,,LOSE,96.2,traveloka,[COMBO] Entrance Ticket & Marvel 4D & Digiphoto,2024-06-25,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-20.8,-17.78%,42.87%,30.52%
+FALSE,FALSE,,,,2024-06-25,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269292,Standard Ticket + Marvel Universe 4D + VR RAcing + Digiphoto (Fixed Dated),828951404773,Person,MYR,127.09,201.95,181.05,180.85,LOSE,132,traveloka,[COMBO] Entrance Ticket & Marvel 4D & VR Racing & Digiphoto,2024-06-25,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-49.05,-27.09%,29.80%,3.72%
+FALSE,FALSE,,,,2024-06-25,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269794,Standard Ticket + Digiphoto (Fixed Dated),828951405863,Person,MYR,71.39,153.19,121.85,121.75,LOSE,89,traveloka,[COMBO] Entrance Ticket & Digiphoto,2024-06-25,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-32.85,-26.96%,41.41%,19.79%
+FALSE,FALSE,,,,2024-06-26,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,333453,MegaZip Admission Ticket,828951547571,Person,SGD,58.09,66,66,66,BELOW MSP,64,trip,MegaZip Standard Ticket,2024-06-28,https://www.trip.com/travel-guide/attraction/singapore/mega-adventure-park-96370/,Singapore,-2,-3.03%,11.98%,9.23%
+FALSE,FALSE,,,,2024-06-26,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,344120,"MegaZip, Climb & Jump",828951569068,Person,SGD,84.15,99,99,99,BELOW MSP,97,trip,"MegaZip, Climb & Jump Standard Ticket",2024-06-28,https://www.trip.com/travel-guide/attraction/singapore/mega-adventure-park-96370/,Singapore,-2,-2.02%,15.00%,13.25%
+FALSE,FALSE,,,,2024-06-26,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295289,Luge & Skyride (3 Rounds),828951462750,Person,KRW,30500,35900,32300,,BELOW COST,29900,myrealtrip,,2024-06-27,https://www.myrealtrip.com/offers/126025,Singapore,-2400,-7.43%,5.57%,-2.01%
+FALSE,FALSE,,,,2024-06-26,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,KRW,42100,45200,45200,,LOSE,42730,kkday,S.E.A. Aquarium Ticket,2024-06-26,https://www.kkday.com/en-my/product/2467-sea-aquarium-tickets-singapore,Singapore,-2470,-5.46%,6.86%,1.47%
+FALSE,FALSE,,,,2024-06-26,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,TWD,576,1152,1008,,LOSE,805,trip,Standard Ticket+Marvel 4D+Digiphoto Standard Ticket,2024-06-27,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-203,-20.14%,42.86%,28.45%
+FALSE,FALSE,,,,2024-06-26,nicholas.kang@klook.com,Attractions,Segment 2,2501,ArtScience Museum at Marina Bay Sands Ticket,69349,FUTURE WORLD: Where Art Meets Science (Off Peak),828951461701,Adult (Standard),MYR,76.39,104.19,104.19,,LOSE,81.4,traveloka,[Off-Peak] Future World Exhibition (International Tourists),2024-06-26,https://www.traveloka.com/en-en/activities/singapore/product/artscience-museum-tickets-1000906037818,Singapore,-22.79,-21.87%,26.68%,6.15%
+FALSE,FALSE,,,,2024-06-26,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),IDR,96871,242177,242177,,LOSE,223520,traveloka,Floral Fantasy,2024-06-27,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-18657,-7.70%,60.00%,56.66%
+FALSE,FALSE,,,,2024-06-27,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295292,Luge & Skyride (4 Rounds),828951462766,Person,KRW,33100,38900,35000,,LOSE,33200,myrealtrip,,2024-06-28,https://www.myrealtrip.com/offers/126025,Singapore,-1800,-5.14%,5.43%,0.30%
+FALSE,FALSE,,,,2024-06-27,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269794,Standard Ticket + Digiphoto (Fixed Dated),828951405863,Person,USD,15.09,32.39,25.79,25.85,LOSE,22.08,trip,Standard Ticket+Digiphoto Standard Ticket,2024-06-28,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-3.71,-14.39%,41.49%,31.66%
+FALSE,FALSE,,,,2024-06-28,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,HKD,104,201,181,181,LOSE,168,kkday,Cable Car Sky Pass (Round Trip),2024-06-28,https://www.kkday.com/en-my/product/17933-singapore-cable-car-tickets-skypass?cid=15925&cid=15925&ud1=English_MY&ud1=English_MY&ud2=my_pmax_17933&ud2=MY_sg_pmax&gad_source=1&gclid=CjwKCAjw65-zBhBkEiwAjrqRMIMtR_Rx0apHsbJco1D2Jzn_Y2WxyrSV9alxLr4UrWdevlACzMS1xRoCackQAvD_BwE,Singapore,-13,-7.18%,42.54%,38.10%
+FALSE,FALSE,,,,2024-06-28,chloe.ang@klook.com,Attractions,Segment 3,9610,Wild Wild Wet Ticket in Singapore,207908,Regular Admission (Peak),828951261647,Adult,MYR,107.75,135.59,135.59,,LOSE,114.62,trip,Wild Wild Wet Admission Ticket Adult Ticket,2024-06-30,https://us.trip.com/travel-guide/attraction/singapore/wild-wild-wet-31766673/,Singapore,-20.97,-15.47%,20.53%,5.99%
+FALSE,FALSE,,,,2024-06-28,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,345828,Outdoor Audio Tour (Tram),828951572640,Adult,TWD,204,240,240,,LOSE,215,kkday,Add On: 20 Minutes Tram Ride English / Chinese Audio Tour at Gardens by the Bay,2024-06-28,https://www.kkday.com/en/product/3158,Singapore,-25,-10.42%,15.00%,5.12%
+FALSE,FALSE,,,,2024-06-29,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8100,20300,20300,,LOSE,17518,myrealtrip,,2024-06-29,https://www.myrealtrip.com/offers/53321,Singapore,-2782,-13.70%,60.10%,53.76%
+FALSE,FALSE,,,,2024-06-30,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,KRW,17300,25500,20400,,LOSE,19348,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-06-30,https://www.kkday.com/en/product/103520,Singapore,-1052,-5.16%,15.20%,10.59%
+FALSE,FALSE,,,,2024-06-30,nicholas.kang@klook.com,Attractions,Segment 0,117,Universal Studios Singapore Ticket,341590,"VIP Experiences (Admission, Unlimited Express Pass & Guided Tour Included) - Peak Date",828951563723,Adult,MYR,1245.1,1384.25,1384.25,,LOSE,1307.9,traveloka,VIP Tour Experience (Peak),2024-07-12,https://www.traveloka.com/en-en/activities/singapore/product/universal-studios-singapore-4575897507406,Singapore,-76.35,-5.52%,10.05%,4.80%
+FALSE,FALSE,,,,2024-06-30,nicholas.kang@klook.com,Attractions,Segment 3,2121,Fun Discovery Pass at Sentosa,34969,Fun Discovery Pass 95 Tokens,8021210601,Person,SGD,74.05,90,81,,LOSE,76.5,trip,Sentosa Sentosa Fun Discovery Pass Standard Ticket,2024-07-01,https://www.trip.com/travel-guide/attraction/singapore/sentosa-82520/,Singapore,-4.5,-5.56%,8.58%,3.20%
+FALSE,FALSE,,,,2024-06-30,nicholas.kang@klook.com,Attractions,Segment 1,10552,Marina Bay Sands Skypark Observation Deck,308878,"Admission to Sands Skypark (Entry from 5pm, timeslot based)",828951492621,Child,MYR,100.89,111.29,111.29,,LOSE,104,traveloka,SkyPark Observation Deck Entrance (Entry after 5PM),2024-06-30,https://www.traveloka.com/en-en/activities/singapore/product/marina-bay-sands-skypark-observation-deck-1000767877110,Singapore,-7.29,-6.55%,9.34%,2.99%
+FALSE,FALSE,,,,2024-07-01,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,HKD,104,201,181,182,LOSE,168,kkday,Cable Car Sky Pass (Round Trip),2024-07-01,https://www.kkday.com/en/product/17933,Singapore,-13,-7.18%,42.54%,38.10%
+FALSE,FALSE,,,,2024-07-01,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,TWD,719,1313,1150,,LOSE,838,trip,Singapore Cable Car Sky Pass Round-Trip (Sentosa Line & Mount Faber Line)+ Arbora Cake Set Adult Ticket,2024-07-02,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-312,-27.13%,37.48%,14.20%
+FALSE,FALSE,,,,2024-07-01,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,333453,MegaZip Admission Ticket,828951547571,Person,SGD,58.09,66,66,66,BELOW MSP,64,trip,MegaZip Standard Ticket,2024-07-02,https://www.trip.com/travel-guide/attraction/singapore/mega-adventure-park-96370/,Singapore,-2,-3.03%,11.98%,9.23%
+FALSE,FALSE,,,,2024-07-01,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,344120,"MegaZip, Climb & Jump",828951569068,Person,SGD,84.15,99,99,99,BELOW MSP,97,trip,"MegaZip, Climb & Jump Standard Ticket",2024-07-02,https://www.trip.com/travel-guide/attraction/singapore/mega-adventure-park-96370/,Singapore,-2,-2.02%,15.00%,13.25%
+FALSE,FALSE,,,,2024-07-01,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,220947,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951295238,Child,KRW,29400,34600,34600,34300,LOSE,31960,myrealtrip,,2024-07-01,https://www.myrealtrip.com/offers/54833,Singapore,-2640,-7.63%,15.03%,8.01%
+FALSE,FALSE,,,,2024-07-01,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292243,Child (18 months-8 years),HKD,121,178,143,,LOSE,135,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-07-02,https://www.kkday.com/en/product/103520,Singapore,-8,-5.59%,15.38%,10.37%
+FALSE,FALSE,,,,2024-07-01,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68562,Canopy Park,825872000101,Adult,KRW,4900,11200,9200,,LOSE,8400,myrealtrip,,2024-07-01,https://www.myrealtrip.com/offers/134061,Singapore,-800,-8.70%,46.74%,41.67%
+FALSE,FALSE,,,,2024-07-01,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,TWD,575,1151,1007,,LOSE,804,trip,Standard Ticket+Marvel 4D+Digiphoto Standard Ticket,2024-07-02,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-203,-20.16%,42.90%,28.48%
+FALSE,FALSE,,,,2024-07-01,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269794,Standard Ticket + Digiphoto (Fixed Dated),828951405863,Person,SGD,20.5,44,35,,BELOW MSP,30,trip,Standard Ticket+Digiphoto Standard Ticket,2024-07-02,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-5,-14.29%,41.43%,31.67%
+FALSE,FALSE,,,,2024-07-01,nicholas.kang@klook.com,Attractions,Segment 3,2121,Fun Discovery Pass at Sentosa,34969,Fun Discovery Pass 95 Tokens,8021210601,Person,SGD,74.05,90,81,,LOSE,76.5,trip,Sentosa Sentosa Fun Discovery Pass Standard Ticket,2024-07-02,https://www.trip.com/travel-guide/attraction/singapore/sentosa-82520/,Singapore,-4.5,-5.56%,8.58%,3.20%
+FALSE,FALSE,,,,2024-07-01,nicholas.kang@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",35145,Cardholder Workshop,8159190501,Person,SGD,85.5,95,95,,BELOW COST,83,kkday,Leather Craft Workshop - Cardholder,2024-07-02,https://www.kkday.com/en/product/36838,Singapore,-12,-12.63%,10.00%,-3.01%
+FALSE,FALSE,,,,2024-07-01,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),KRW,8100,20400,20400,,LOSE,17518,myrealtrip,,2024-07-01,https://www.myrealtrip.com/offers/53321,Singapore,-2882,-14.13%,60.29%,53.76%
+FALSE,FALSE,,,,2024-07-01,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,345828,Outdoor Audio Tour (Tram),828951572640,Adult,TWD,204,240,240,,LOSE,215,kkday,Add On: 20 Minutes Tram Ride English / Chinese Audio Tour at Gardens by the Bay,2024-07-01,https://www.kkday.com/en/product/3158,Singapore,-25,-10.42%,15.00%,5.12%
+FALSE,FALSE,,,,2024-07-02,fynn.loh@klook.com,Attractions,Segment 1,141,Singapore Zoo Ticket With Tram Ride,397009,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951688537,Adult,KRW,40800,50000,50000,,LOSE,46918,myrealtrip,,2024-07-02,https://www.myrealtrip.com/offers/54833,Singapore,-3082,-6.16%,18.40%,13.04%
+FALSE,FALSE,,,,2024-07-02,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),IDR,96487,241218,241218,241218,LOSE,144000,kkday,Floral Fantasy,2024-07-02,https://www.kkday.com/en/product/3158,Singapore,-97218,-40.30%,60.00%,33.00%
+FALSE,FALSE,,,,2024-07-03,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18400,35800,32200,,LOSE,29962,myrealtrip,,2024-07-03,https://www.myrealtrip.com/offers/128019,Singapore,-2238,-6.95%,42.86%,38.59%
+FALSE,FALSE,,,,2024-07-03,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,MYR,104.35,190.49,166.85,,LOSE,130,kkday,Combo Deal: Cable Car Ticket + Arbora Set Meal / Singapore Sling / Cake Set,2024-07-04,https://www.kkday.com/en-my/product/17933-singapore-cable-car-tickets-skypass?cid=15925&cid=15925&ud1=English_MY&ud1=English_MY&ud2=my_pmax_17933&ud2=MY_sg_pmax&gad_source=1&gclid=CjwKCAjw65-zBhBkEiwAjrqRMIMtR_Rx0apHsbJco1D2Jzn_Y2WxyrSV9alxLr4UrWdevlACzMS1xRoCackQAvD_BwE,Singapore,-36.85,-22.09%,37.46%,19.73%
+FALSE,FALSE,,,,2024-07-03,chloe.ang@klook.com,Attractions,Segment 3,9610,Wild Wild Wet Ticket in Singapore,175208,Regular Admission (Off Peak),828951173795,Adult,SGD,23,29,29,,BELOW MSP,25,trip,Wild Wild Wet Admission Ticket Adult Ticket,2024-07-05,https://www.trip.com/travel-guide/attraction/singapore/wild-wild-wet-31766673/,Singapore,-4,-13.79%,20.69%,8.00%
+FALSE,FALSE,,,,2024-07-03,nicholas.kang@klook.com,Attractions,Segment 1,119,"S.E.A. Aquarium Ticket Sentosa, Singapore",285608,S.E.A. Aquarium One-Day Ticket,828951442486,Adult,KRW,41900,45000,45000,,LOSE,42730,kkday,S.E.A. Aquarium Ticket,2024-07-04,https://www.kkday.com/en/product/2467,Singapore,-2270,-5.04%,6.89%,1.94%
+FALSE,FALSE,,,,2024-07-04,chloe.ang@klook.com,Attractions,Segment 3,1256,National Gallery Singapore Ticket,2628,General Admission (Foreign Nationals),8012560301,Adult,HKD,58,115,81,81,LOSE,72.75,trip,General Admission Ticket Adult Ticket,2024-07-05,https://sg.trip.com/travel-guide/attraction/singapore/national-gallery-singapore-98355/,Singapore,-8.25,-10.19%,28.40%,20.27%
+FALSE,FALSE,,,,2024-07-04,chloe.ang@klook.com,Attractions,Segment 3,9610,Wild Wild Wet Ticket in Singapore,207908,Regular Admission (Peak),828951261647,Adult,SGD,31,39,39,,BELOW MSP,33,trip,Wild Wild Wet Admission Ticket Adult Ticket,2024-07-06,https://www.trip.com/travel-guide/attraction/singapore/wild-wild-wet-31766673/,Singapore,-6,-15.38%,20.51%,6.06%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,170,[Open Dated] Admission Ticket (Local residents),828951443942,Adult,MYR,153.7,170.79,170.79,,BELOW COST,149,traveloka,[Flexible Date] Entrance Ticket (Singaporean Citizens),2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-21.79,-12.76%,10.01%,-3.15%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,220957,[Open Dated] Admission Ticket (Non-residents),828951291996,Adult,MYR,145.19,170.79,170.79,170.45,BELOW COST,143.4,traveloka,[Flexible Date] Entrance Ticket (International Tourists),2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-27.39,-16.04%,14.99%,-1.25%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,8871,[Open Dated] Admission Ticket with Tram Ride (Local residents),8039280101,Adult,MYR,158.09,191.69,175.69,174.89,LOSE,164.2,traveloka,[Flexible Date] Entrance Ticket - Includes Tram (Singapore Residents),2024-07-04,https://www.traveloka.com/en-en/activities/singapore/product/singapore-night-safari-tickets-4426674148048,Singapore,-11.49,-6.54%,10.02%,3.72%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68567,Mastercard® Canopy Bridge + Free Canopy Park ,825872000201,Adult,MYR,24.6075,48.45,35.2665,41.39,LOSE,33.3,traveloka,[COMBO] Mastercard® Canopy Bridge & Canopy Park,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/jewel-changi-airport-attractions-2001497984425,Singapore,-1.9665,-5.58%,30.22%,26.10%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68704,Hedge Maze + Free Canopy Park,825872000301,Adult,MYR,24.6075,48.45,35.2665,41.39,LOSE,33.3,traveloka,[COMBO] Hedge Maze & Canopy Park,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/jewel-changi-airport-attractions-2001497984425,Singapore,-1.9665,-5.58%,30.22%,26.10%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68709,Mirror Maze + Free Canopy Park,825872000401,Adult,MYR,33.4815,65.89,47.1325,55.35,LOSE,44.9,traveloka,[COMBO] Mirror Maze & Canopy Park,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/jewel-changi-airport-attractions-2001497984425,Singapore,-2.2325,-4.74%,28.96%,25.43%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68712,Walking Net + Free Canopy Park,825872000501,Adult,MYR,33.4815,65.89,47.1325,55.35,LOSE,44.9,traveloka,[COMBO] Walking Net & Canopy Park,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/jewel-changi-airport-attractions-2001497984425,Singapore,-2.2325,-4.74%,28.96%,25.43%
+FALSE,FALSE,,,,2024-07-04,fynn.loh@klook.com,Attractions,Segment 2,25872,Jewel Changi Airport Attraction Ticket in Singapore,68715,Bouncing Net + Free Canopy Park,825872000601,Adult,MYR,44.1575,86.79,61.9225,72.7,LOSE,58.8,traveloka,[COMBO] Bouncing Net & Canopy Park,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/jewel-changi-airport-attractions-2001497984425,Singapore,-3.1225,-5.04%,28.69%,24.90%
+FALSE,FALSE,,,,2024-07-04,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,MYR,83.65,167.29,146.39,,LOSE,96.1,traveloka,[COMBO] Entrance Ticket & Marvel 4D & Digiphoto,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-50.29,-34.35%,42.86%,12.96%
+FALSE,FALSE,,,,2024-07-04,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269292,Standard Ticket + Marvel Universe 4D + VR RAcing + Digiphoto (Fixed Dated),828951404773,Person,MYR,127.25,202.15,181.25,180.89,LOSE,131.9,traveloka,[COMBO] Entrance Ticket & Marvel 4D & VR Racing & Digiphoto,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-49.35,-27.23%,29.79%,3.53%
+FALSE,FALSE,,,,2024-07-04,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269794,Standard Ticket + Digiphoto (Fixed Dated),828951405863,Person,MYR,71.45,153.35,121.99,104.35,LOSE,88.9,traveloka,[COMBO] Entrance Ticket & Digiphoto,2024-07-04,https://www.traveloka.com/en-sg/activities/singapore/product/madame-tussauds-singapore-1001859187273,Singapore,-33.09,-27.13%,41.43%,19.63%
+FALSE,FALSE,,,,2024-07-04,nicholas.kang@klook.com,Attractions,Segment 2,2501,ArtScience Museum at Marina Bay Sands Ticket,69349,FUTURE WORLD: Where Art Meets Science (Off Peak),828951461701,Adult (Standard),MYR,76.69,104.59,104.59,,LOSE,81.3,traveloka,[Off-Peak] Future World Exhibition (International Tourists),2024-07-04,https://www.traveloka.com/en-en/activities/singapore/product/artscience-museum-tickets-1000906037818,Singapore,-23.29,-22.27%,26.68%,5.67%
+FALSE,FALSE,,,,2024-07-04,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,185,[VISIT BEFORE 12 JULY] Flower Dome & Cloud Forest,828951581566,Adult(Non-Resident),MYR,62.75,111.55,111.55,111.35,LOSE,70.3,traveloka,Flower Dome + Cloud Forest (International Tourists),2024-07-04,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-41.25,-36.98%,43.75%,10.74%
+FALSE,FALSE,,,,2024-07-04,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,160985,Floral Fantasy,828951271726,Adult(Non-Resident),MYR,27.89,69.7,69.7,69.59,LOSE,31.7,traveloka,Floral Fantasy Entrance Ticket (International Tourists),2024-07-04,https://www.traveloka.com/en-en/activities/singapore/product/gardens-by-the-bay-5030931490063,Singapore,-38,-54.52%,59.99%,12.02%
+FALSE,FALSE,,,,2024-07-05,fynn.loh@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,298453,Manatee Mania Backstage Pass (Admission not included),828951470042,Per Person,SGD,88.8,118.4,118.4,,LOSE,111,trip,River Wonders Manatee Mania Backstage Pass Standard Ticket,2024-07-08,https://www.trip.com/travel-guide/attraction/singapore/river-wonders-98700/,Singapore,-7.4,-6.25%,25.00%,20.00%
+FALSE,FALSE,,,,2024-07-05,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,220963,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951292000,Adult,KRW,43800,56200,51500,49600,BELOW COST,34700,myrealtrip,,2024-07-05,https://www.myrealtrip.com/offers/126835,Singapore,-16800,-32.62%,14.95%,-26.22%
+FALSE,FALSE,,,,2024-07-06,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,344120,"MegaZip, Climb & Jump",828951569068,Person,KRW,86100,101300,101300,,LOSE,95019,myrealtrip,,2024-07-08,https://www.myrealtrip.com/offers/129435,Singapore,-6281,-6.20%,15.00%,9.39%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,220960,[Open Dated] Admission Ticket (Non-residents) ,828951291999,Adult,MYR,127.55,150.09,150.09,150.09,LOSE,128.1,traveloka,[Flexible Date] Entrance Ticket (International Tourists),2024-07-06,https://www.traveloka.com/en-en/activities/singapore/product/river-wonders-9138357759029,Singapore,-21.99,-14.65%,15.02%,0.43%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,409491,[Open Dated] 2-in-1 Park-Hopper: River Wonders + Night Safari Admission Ticket,828951712287,Adult (Non-residents),MYR,298.39,342.05,314.09,,BELOW COST,288.9,traveloka,[Flexible Date] COMBO 2-in-1 Park Hopper: River Wonders & Night Safari (International Tourists),2024-07-06,https://www.traveloka.com/en-en/activities/singapore/product/river-wonders-9138357759029,Singapore,-25.19,-8.02%,5.00%,-3.28%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295271,Luge & Skyride (2 Rounds) + Luge branded merchandise,828951462723,Person,MYR,103.85,129.15,116.25,120.55,LOSE,106.9,traveloka,2 Luge & 2 Skyride combo + Luge merchandise (OTA),2024-07-07,https://www.traveloka.com/en-en/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-9.35,-8.04%,10.67%,2.85%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,KRW,17400,25600,20500,,LOSE,19409,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-07-07,https://www.kkday.com/en/product/103520,Singapore,-1091,-5.32%,15.12%,10.35%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,220963,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951292000,Adult,MYR,149.5,191.95,175.89,176.35,LOSE,154.6,traveloka,[Flexible Date] Entrance Ticket - Includes Tram (International Tourists),2024-07-06,https://www.traveloka.com/en-en/activities/singapore/product/singapore-night-safari-tickets-4426674148048,Singapore,-21.29,-12.10%,15.00%,3.30%
+FALSE,FALSE,,,,2024-07-06,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,255458,Asian Dinner at Ulu Ulu Safari Restaurant (Admission not included) ,828951371503,Adult,MYR,108.19,171,171,170.89,LOSE,115.95,traveloka,[ADD-ON] Asian Buffet Dinner at Ulu Ulu Safari Restaurant for Min. 2 Pax (International Tourists),2024-07-08,https://www.traveloka.com/en-en/activities/singapore/product/singapore-night-safari-tickets-4426674148048,Singapore,-55.05,-32.19%,36.73%,6.69%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18400,35700,32100,,LOSE,29962,myrealtrip,,2024-07-08,https://www.myrealtrip.com/offers/128019,Singapore,-2138,-6.66%,42.68%,38.59%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,186,Cable Car Sky Pass (Round Trip) ,8001300101,Adult,KRW,18400,35700,32100,,LOSE,29962,kkday,Cable Car Sky Pass (Mount Faber Line and Sentosa Line - Round Trip),2024-07-08,https://www.kkday.com/en/product/17933,Singapore,-2138,-6.66%,42.68%,38.59%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,IDR,361080,659332,576524,,LOSE,419324,trip,Singapore Cable Car Sky Pass Round-Trip (Sentosa Line & Mount Faber Line)+ Arbora Cake Set Adult Ticket,2024-07-08,https://www.trip.com/travel-guide/attraction/singapore/singapore-cable-car-10570019/,Singapore,-157200,-27.27%,37.37%,13.89%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,Attractions,Segment 1,130,Singapore Cable Car Sky Pass,244619,Cable Car Sky Pass (Round Trip) + Arbora Hilltop Cake Set,828951348286,Adult,TWD,720,1315,1150,,LOSE,900,kkday,Combo Deal: Cable Car Ticket + Arbora Set Meal / Singapore Sling / Cake Set,2024-07-09,https://www.kkday.com/en/product/17933,Singapore,-250,-21.74%,37.39%,20.00%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,Attractions,Segment 3,1256,National Gallery Singapore Ticket,2628,General Admission (Foreign Nationals),8012560301,Adult,SGD,10,20,14,,LOSE,12.6,trip,General Admission Ticket Adult Ticket,2024-07-08,https://sg.trip.com/travel-guide/attraction/singapore/national-gallery-singapore-98355/,Singapore,-1.4,-10.00%,28.57%,20.63%
+FALSE,FALSE,,,,2024-07-08,chloe.ang@klook.com,T&A,,713,MegaZip at Mega Adventure Park Singapore,333453,MegaZip Admission Ticket,828951547571,Person,SGD,58.09,66,66,66,BELOW MSP,64,trip,MegaZip Standard Ticket,2024-07-08,https://www.trip.com/travel-guide/attraction/singapore/mega-adventure-park-96370/,Singapore,-2,-3.03%,11.98%,9.23%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,170,[Open Dated] Admission Ticket (Local residents),828951443942,Adult,MYR,153.89,170.99,157.39,,BELOW COST,148.8,traveloka,[Flexible Date] Entrance Ticket (Singaporean Citizens),2024-07-08,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-8.59,-5.46%,2.22%,-3.42%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,220957,[Open Dated] Admission Ticket (Non-residents),828951291996,Adult,MYR,145.35,170.99,170.99,170.99,BELOW COST,143.7,traveloka,[Flexible Date] Entrance Ticket (International Tourists),2024-07-08,https://www.traveloka.com/en-sg/activities/singapore/product/singapore-bird-paradise-5313169984425,Singapore,-27.29,-15.96%,15.00%,-1.15%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 2,124,River Wonders Singapore Ticket,298453,Manatee Mania Backstage Pass (Admission not included),828951470042,Per Person,SGD,88.8,118.4,118.4,,LOSE,111,trip,River Wonders Manatee Mania Backstage Pass Standard Ticket,2024-07-11,https://www.trip.com/travel-guide/attraction/singapore/river-wonders-98700/,Singapore,-7.4,-6.25%,25.00%,20.00%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 2,132,Skyline Luge Singapore Ticket,295271,Luge & Skyride (2 Rounds) + Luge branded merchandise,828951462723,Person,MYR,103.85,129.15,116.2,120.55,LOSE,106.9,traveloka,2 Luge & 2 Skyride combo + Luge merchandise (OTA),2024-07-09,https://www.traveloka.com/en-sg/activities/singapore/product/skyline-luge-singapore-4441440967694,Singapore,-9.3,-8.00%,10.63%,2.85%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",185823,Combo Ticket: Science Centre + Omni Theatre,828951196047,Adult,IDR,186558,312936,250349,,LOSE,237098,trip,Science Center + Omni Theather Adult Ticket,2024-07-09,https://us.trip.com/travel-guide/attraction/singapore/science-centre-singapore-13086709/,Singapore,-13251,-5.29%,25.48%,21.32%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 3,1347,"Science Centre Singapore, Omni Theatre, KidsSTOP Ticket",221072,Combo Ticket: Science Centre + KidsSTOP,828951292241,Accompanying Adult,CNY,92,135,108,,LOSE,102,kkday,[Bundle Promo: 25% Off] Science Centre Singapore & KidsSTOP™ Admission Ticket,2024-07-09,https://www.kkday.com/en/product/103520-singapore-science-centre-ticket,Singapore,-6,-5.56%,14.81%,9.80%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,220963,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951292000,Adult,KRW,43700,56100,51400,49600,BELOW COST,34700,myrealtrip,,2024-07-09,https://www.myrealtrip.com/offers/126835,Singapore,-16700,-32.49%,14.98%,-25.94%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,220963,[Open Dated] Admission Ticket with Tram Ride (Non-residents),828951292000,Adult,MYR,149.5,191.95,175.89,176.45,LOSE,154.6,traveloka,[Flexible Date] Entrance Ticket - Includes Tram (International Tourists),2024-07-08,https://www.traveloka.com/en-id/activities/singapore/product/singapore-night-safari-1000306127658,Singapore,-21.29,-12.10%,15.00%,3.30%
+FALSE,FALSE,,,,2024-07-08,fynn.loh@klook.com,Attractions,Segment 1,3928,Night Safari Singapore Ticket With Tram Ride,255458,Asian Dinner at Ulu Ulu Safari Restaurant (Admission not included) ,828951371503,Adult,MYR,108.19,170.99,170.99,170.99,LOSE,115.95,traveloka,[ADD-ON] Asian Buffet Dinner at Ulu Ulu Safari Restaurant for Min. 2 Pax (International Tourists),2024-07-10,https://www.traveloka.com/en-id/activities/singapore/product/singapore-night-safari-1000306127658,Singapore,-55.04,-32.19%,36.73%,6.69%
+FALSE,FALSE,,,,2024-07-08,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269291,Standard Ticket + Marvel Universe 4D + Digiphoto,828951404772,Person,IDR,288864,577728,505512,,LOSE,402551,trip,Standard Ticket+Marvel 4D+Digiphoto Standard Ticket,2024-07-08,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-102961,-20.37%,42.86%,28.24%
+FALSE,FALSE,,,,2024-07-08,nicholas.kang@klook.com,Attractions,Segment 3,1182,Madame Tussauds Singapore Ticket,269794,Standard Ticket + Digiphoto (Fixed Dated),828951405863,Person,SGD,20.5,44,35,,BELOW MSP,30,trip,Standard Ticket+Digiphoto Standard Ticket,2024-07-08,https://us.trip.com/travel-guide/attraction/singapore/madame-tussauds-singapore-15043697/,Singapore,-5,-14.29%,41.43%,31.67%
+FALSE,FALSE,,,,2024-07-08,nicholas.kang@klook.com,Attractions,Segment 3,2121,Fun Discovery Pass at Sentosa,34969,Fun Discovery Pass 95 Tokens,8021210601,Person,SGD,74.05,90,81,,LOSE,76.5,trip,Sentosa Sentosa Fun Discovery Pass Standard Ticket,2024-07-08,https://www.trip.com/travel-guide/attraction/singapore/sentosa-82520/,Singapore,-4.5,-5.56%,8.58%,3.20%
+FALSE,FALSE,,,,2024-07-08,nicholas.kang@klook.com,Attractions,Segment 2,2501,ArtScience Museum at Marina Bay Sands Ticket,69349,FUTURE WORLD: Where Art Meets Science (Off Peak),828951461701,Adult (Standard),MYR,76.79,104.69,104.69,,LOSE,81.5,traveloka,[Off-Peak] Future World Exhibition (International Tourists),2024-07-08,https://www.traveloka.com/en-sg/activities/singapore/product/artscience-museum-1000906037818,Singapore,-23.19,-22.15%,26.65%,5.78%
+FALSE,FALSE,,,,2024-07-08,nicholas.kang@klook.com,T&A,,15919,"Cardholder, Wallet and Accessories Leather Workshop in Singapore",35145,Cardholder Workshop,8159190501,Person,SGD,85.5,95,95,,BELOW COST,83,kkday,Leather Craft Workshop - Cardholder,2024-07-09,https://www.kkday.com/en-ph/product/36838-crafune-leather-craft-workshop-singapore,Singapore,-12,-12.63%,10.00%,-3.01%
+FALSE,FALSE,,,,2024-07-08,vivian.tan@klook.com,Attractions,Segment 1,127,Gardens by the Bay Ticket in Singapore,345828,Outdoor Audio Tour (Tram),828951572640,Adult,TWD,204,240,240,,LOSE,215,kkday,Add On: 20 Minutes Tram Ride English / Chinese Audio Tour at Gardens by the Bay,2024-07-08,https://www.kkday.com/en/product/3158,Singapore,-25,-10.42%,15.00%,5.12%
+FALSE,FALSE,,,,2024-07-09,chloe.ang@klook.com,Attractions,Segment 3,1256,National Gallery Singapore Ticket,2628,General Admission (Foreign Nationals),8012560301,Adult,KRW,10300,20500,14400,,LOSE,11442,myrealtrip,,2024-07-09,https://www.myrealtrip.com/offers/72690,Singapore,-2958,-20.54%,28.47%,9.98%
+FALSE,FALSE,,,,2024-07-09,fynn.loh@klook.com,Attractions,Segment 2,123,Bird Paradise Ticket in Singapore,220957,[Open Dated] Admission Ticket (Non-residents),828951291996,Adult,HKD,241,284,284,284,LOSE,265,kkday,[Until 31 Jul 2024] Bird Paradise Admission Ticket,2024-07-09,https://www.kkday.com/en/product/2967-bird-paradise-ticket-singapore,Singapore,-19,-6.69%,15.14%,9.06%
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
