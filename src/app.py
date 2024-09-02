@@ -27,7 +27,9 @@ responsible_bd = [
     ]
 
 # df_init = pd.read_csv("TTD - Lose Case Tracker 2024  - SG.csv")
-df_init = pd.read_csv("src/TTD - Lose Case Tracker_010924.csv")
+# df_init = pd.read_csv("/Users/varun.srivastava/Desktop/Klook_Projects/BD_Alerts/src/lose_case_tracker_010924.csv")
+
+df_init = pd.read_csv("https://raw.githubusercontent.com/varun-dev-stack/test_lose_case_alert/main/src/lose_case_tracker_010924.csv")
 
 print(f'Checking the columns in df_init {df_init.columns}')
 df_init.rename(columns={'date':'Report Date','BML ':'BML'}, inplace=True)
