@@ -282,7 +282,7 @@ table_submitted = dag.AgGrid(
 app.layout = dbc.Container(
     [
         dcc.Store(id='trigger-update'),
-        html.Div("Lose Case Tracker", className="h3 p-2 text-white bg-secondary", id='not-important'),
+        html.Div("Lose Case Tracker App", className="h3 p-2 text-white bg-secondary", id='not-important'),
         dbc.Row(
             [
                 dbc.Col(
