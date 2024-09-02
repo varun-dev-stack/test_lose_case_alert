@@ -68,7 +68,8 @@ current_date = datetime.now().strftime('%Y-%m-%d')
 
 dropdown_options = [{'label': bd, 'value': bd} for bd in df['responsible_bd'].unique()]
 regions = [{'label': destination, 'value': destination} for destination in df['destination'].unique()]
-file_path = 'src/bd_alerts_test/'
+# file_path = 'src/bd_alerts_test/'
+file_path = "https://raw.githubusercontent.com/varun-dev-stack/test_lose_case_alert/main/src/bd_alerts_test"
 bd_options = [
               "Option 1",
               "Option 2",
